@@ -637,9 +637,9 @@ nav a {
 }
 
 .page9 {
-  background-color: #d4d8d9;
-  width: 100vw;
-  height: 190vh;
+    background-color: #d4d8d9;
+    width: 100vw;
+    height: 180vh;
 }
 
 .page9-head {
@@ -718,13 +718,13 @@ nav a {
 
 @media (min-width: 714px) {
   .page9 {
-    height: 135vh;
-  }
+    height: 124vh;
+}
 }
 
 @media (min-width: 1072px) {
   .page9 {
-    height: 100vh;
+    height: 69vh;
   }
 }
 
@@ -844,5 +844,6 @@ nav a {
 @media (min-width: 1011px) {
   .page11-c {
     justify-content: space-between;
+    
   }
 }
